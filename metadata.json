@@ -1,0 +1,5 @@
+{
+  "name": "Agentic Studio Pro-2",
+  "description": "A browser-native IDE simulation demonstrating self-healing, agent-driven software development with WebContainers and LangGraph concepts.",
+  "requestFramePermissions": []
+}
